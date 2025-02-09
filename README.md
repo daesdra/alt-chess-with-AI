@@ -4,9 +4,11 @@ A single player chess game where the user (who plays as white) verses the comput
 ## About Project
 This project was the final project for my Principles of Programming course.
 We were provided with a prompt to create a chess game with the following conditions: 
-- Single player capabilities where the user always plays as white and the computer always plays as black. 
-- From a pre-existing file, the program must read the piece locations and be able to create a board from them.
-- Pieces include the king and an unlimited amount of placeable bishops for each side. 
+- Single player capabilities where the user always plays as white and the computer always plays as black.
+- From the provided methods, do not modify any method signatures or create new methods (we were required to complete the skeleton code provided and could not create alternative classes or methods). 
+- From pre-existing "board set-up" files, the program must read the piece locations and be able to create a board from them.
+- The program must be able to write to board set-up files to allow the player to save chess games and continue them later. 
+- Piece types include the king and an unlimited amount of placeable bishops for each side. 
 - Pieces can be placed anywhere on the board to start, and are not confined to their usual chess starting positions. 
 
 Additionally, we had to create our own tests for the project. Debugging features were not a requirement of the assignment, but I chose to incorporate them.  
