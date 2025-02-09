@@ -9,7 +9,7 @@ We were provided with a prompt to create a chess game with the following conditi
 - Pieces include the king and an unlimited amount of placeable bishops for each side. 
 - Pieces can be placed anywhere on the board to start, and are not confined to their usual chess starting positions. 
 
-Additionally, we had to create our own tests for the project. Debugging features were not a requirement of the assignment. 
+Additionally, we had to create our own tests for the project. Debugging features were not a requirement of the assignment, but I chose to incorporate them.  
 
 Because the course work was completed under a GitHub classroom, version control history is not available - but the code itself it viewable in this repository. 
 
